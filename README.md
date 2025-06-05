@@ -44,13 +44,6 @@ A atividade também inclui a criação de um spy sobre o método reduce do prot�
 - [Jest - Documentação oficial](https://jestjs.io/docs/getting-started)
 - [TypeScript - Documentação oficial](https://www.typescriptlang.org/docs/)
 
-## Vídeos recomendados:
-### Introdução aos testes unitários com Jest
-https://www.youtube.com/watch?v=7r4xVDI2vho
-
-### Como usar mocks e spies no Jest
-https://www.youtube.com/watch?v=FgnxcUQ5vho
-
 Ao finalizar, execute os testes para verificar se o comportamento esperado foi atingido.
 
 Dica importante:Lembre-se de restaurar qualquer spy criado após a execução do teste, evitando que ele afete outros testes no mesmo arquivo.
